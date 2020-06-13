@@ -61,7 +61,7 @@
     ```
 - Jalankan command ini untuk menginstall environment `jcop_wv`
     ```
-    conda env create -f env_jcop_wv_.yml
+    conda env create -f env_jcop_wv.yml
     ```
 
 ## Step 5: Memastikan environment terinstall dengan baik

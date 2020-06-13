@@ -33,4 +33,4 @@ dependencies:
   - xgboost==0.80
   - scikit-optimize==0.7.4
   - jcopml==1.1.7
-  - luwiji==1.1.4
+  - luwiji==1.1.5
